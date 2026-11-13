@@ -8,3 +8,13 @@ FILES = \
 	src/animations/easings.js \
 	src/animations/tween.js \
 	src/animations/animation.js \
+	src/animations/css_animation.js \
+	src/animations/collection.js \
+	src/animations/parallel.js \
+	src/animations/sequence.js \
+	src/css.js \
+	src/world.js \
+	src/timeline.js \
+	src/item.js \
+	src/physics/forces/constant.js \
+	src/physics/forces/attraction.js \
